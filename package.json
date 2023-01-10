@@ -1,5 +1,5 @@
 {
-  "name": "simplecloud",
+  "name": "asord-cloud",
   "version": "1.2.0",
   "description": "",
   "main": "app.js",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FDMZ17/simplecloud.git"
+    "url": "git+https://github.com/Sentiax/Asord-Cloud.git"
   },
-  "author": "FDMZ17",
+  "author": "Sentiax",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.0",
